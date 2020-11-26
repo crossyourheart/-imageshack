@@ -1,0 +1,8 @@
+<script>
+function f(){ 
+document.getElementById('sideCatalog').style.display='block';
+console.log("你好啊")
+}
+window.onload=f;
+
+</script>
